@@ -1,0 +1,7 @@
+{
+  "name": "sample",
+  "type": "module",
+  "scripts": {
+    "start": "node one\\two\\three\\file3.js"
+  } 
+}
